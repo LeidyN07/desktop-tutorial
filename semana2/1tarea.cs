@@ -10,7 +10,7 @@ public class Circulo
     // Esta función calcula el área del círculo usando la fórmula: área = pi * radio^2
     public double CalcularArea()
     {
-        return Math.PI * radio * radio;
+        return Math.PI * radio * radio;GCNotificationStatus
     }
 
     // Esta función calcula el perímetro: perímetro = 2 * pi * radio
