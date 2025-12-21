@@ -1,0 +1,15 @@
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\bin\Debug\net10.0\AgendaTurnosClinica.exe
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\bin\Debug\net10.0\AgendaTurnosClinica.deps.json
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\bin\Debug\net10.0\AgendaTurnosClinica.runtimeconfig.json
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\bin\Debug\net10.0\AgendaTurnosClinica.dll
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\bin\Debug\net10.0\AgendaTurnosClinica.pdb
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.AssemblyInfoInputs.cache
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.AssemblyInfo.cs
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.csproj.CoreCompileInputs.cache
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.sourcelink.json
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.dll
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\refint\AgendaTurnosClinica.dll
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.pdb
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\AgendaTurnosClinica.genruntimeconfig.cache
+C:\Users\obaco\OneDrive\Documentos\trabajos uea\AgendaTurnosClinica\obj\Debug\net10.0\ref\AgendaTurnosClinica.dll
