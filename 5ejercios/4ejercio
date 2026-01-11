@@ -1,0 +1,27 @@
+using System;
+
+class Programa
+{
+    static void Main()
+    {
+        // Yo escribí mis materias
+        string[] materias = { "Matemáticas", "Física", "Química", "Historia", "Lengua" };
+        int[] notas = new int[materias.Length];
+
+        // Yo ingreso las notas de cada materia
+        for (int i = 0; i < materias.Length; i++)
+        {
+            Console.Write("Nota de " + materias[i] + ": ");
+            notas[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine("\nDebo repetir estas materias:");
+        for (int i = 0; i < materias.Length; i++)
+        {
+            if (notas[i] < 10) // Si la nota es menor a 10
+            {
+                Console.WriteLine(materias[i]);
+            }
+        }
+    }
+}
